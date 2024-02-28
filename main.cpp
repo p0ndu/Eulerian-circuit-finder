@@ -1,4 +1,4 @@
-    //
+//
     //  main.cpp
     //  Euler Circuit Finder
     //
